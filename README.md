@@ -1,0 +1,2 @@
+# myfristgit
+study github!!
